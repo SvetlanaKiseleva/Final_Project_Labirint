@@ -1,4 +1,4 @@
-# Final_Projest_Labirint
+# Final_Project_Labirint
 Тестирование функционала интернет-магазина Лабиринт https://www.labirint.ru/
 
 Автотесты выполнены на Python 3.10 с применением Pytest и Selenium, используется браузер Chrome.
